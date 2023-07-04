@@ -10,4 +10,4 @@ package HelloApp;
 
 public interface Hello extends HelloOperations, org.omg.CORBA.Object, org.omg.CORBA.portable.IDLEntity 
 {
-} // interface Hello
+} // interface Hello //check if this comment is visible in changes 
